@@ -110,7 +110,7 @@ PCや設定、事前インストールが必要なソフトウェアなど
 
 C# Tokyo では行動規範を定めています。イベント参加までに一読ください。
 
-[C# Tokyo コミュニティ行動規範](https://github.com/csharp-tokyo/event_template/code_of_conduct.md)
+[C# Tokyo コミュニティ行動規範](https://github.com/csharp-tokyo/event_template/blob/master/code_of_conduct.md)
 
 # コミュニケーション
 
