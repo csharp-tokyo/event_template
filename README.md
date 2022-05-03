@@ -16,6 +16,10 @@
 * 背景画像  
   <img width="150" src="cs_tokyo_connpass_event_bg.png" />  
 
+* cluster イベント用  
+  <img width="150" src="cs_tokyo_cluster.png" />  
+
+
 ## 行動規範
 
 [行動規範](code_of_conduct.md)  
